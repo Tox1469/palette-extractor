@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/palette-extractor/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/palette-extractor/actions)
+[![License](https://img.shields.io/github/license/Tox1469/palette-extractor?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/palette-extractor?style=flat-square)](https://github.com/Tox1469/palette-extractor/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/palette-extractor?style=flat-square)](https://github.com/Tox1469/palette-extractor/stargazers)
+
+---
+
 # palette-extractor
 
 Extrai cores dominantes de pixels RGB
