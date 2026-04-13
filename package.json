@@ -1,0 +1,19 @@
+{
+  "name": "palette-extractor",
+  "version": "1.0.0",
+  "description": "Extrai cores dominantes de pixels RGB",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["palette", "color", "extract", "image"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
